@@ -1,0 +1,9 @@
+/.generated_certs
+/.tools
+/Brewfile.lock.json
+junit.xml
+.DS_Store
+.idea
+.vscode
+*.bak
+
